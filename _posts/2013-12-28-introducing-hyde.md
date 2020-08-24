@@ -16,7 +16,7 @@ Poole is the Jekyll Butler, serving as an upstanding and effective foundation fo
 * Related posts (time-based, because Jekyll) below each post
 * Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)
 
-Here is some math \( a \neq 0 \) $ \alpha \beta \gamma $ $$ \alpha $$
+Here is some math $$ a \neq 0 $$ $ \alpha \beta \gamma $ $$ \alpha $$
 
 ### Hyde features
 
