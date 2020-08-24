@@ -8,19 +8,22 @@ permalink:        pretty
 
 # Setup
 title:            Irtaza Khalid
-tagline:          'Discovering methods in madness'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+tagline:          'Scientific log'
+description:      'Physicist interested in statistical science'
 url:              'https://erg0dic.github.io/'
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Irtaza Khalid'
+  email:          'mdirtazausmankhalid@gmail.com' 
 
-paginate:         5
+paginate:         10
 
 # Custom vars
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/erg0dic
+
+social:
+    linkedin: https://www.linkedin.com/in/ir1aza/
