@@ -8,14 +8,14 @@ permalink:        pretty
 
 # Setup
 title:            Detective Stat
-tagline:          'Scientific log'
-description:      'Physicist interested in statistical science'
-url:              'https://erg0dic.github.io/'
+tagline:          Scientific log
+description:      Physicist interested in statistical science
+url:              https://erg0dic.github.io/
 baseurl:          /
 
 author:
-  name:           'Irtaza Khalid'
-  email:          'mdirtazausmankhalid@gmail.com' 
+  name:           Irtaza Khalid
+  email:          mdirtazausmankhalid@gmail.com'
 
 paginate:         10
 
