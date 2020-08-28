@@ -7,7 +7,7 @@ permalink:        pretty
 # relative_permalinks: true
 
 # Setup
-title:            Irtaza Khalid
+title:            Detective Stat
 tagline:          'Scientific log'
 description:      'Physicist interested in statistical science'
 url:              'https://erg0dic.github.io/'
@@ -27,3 +27,7 @@ github:
 
 social:
     linkedin: https://www.linkedin.com/in/ir1aza/
+
+more_links:
+    notes: 
+
