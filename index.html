@@ -11,13 +11,14 @@ title: Home
         {{ post.title }}
       </a>
     </h1>
-
+    <!--Stuff that goes underneath heading of blog posts e.g. date-->
+    <div>
     <span class="post-date">{{ post.date | date_to_string }}</span>
-
+    </div>
+    <br>
+    {{ post.excerpt | newline_to_br | newline_to_br | strip_newlines | replace: '<br />', ' ' | strip_html | strip | append: "<br /> <br />" }} 
+    <a href="{{ post.url }}">Read more...</a>
   </div>
-  <br>
-  {{ post.excerpt | newline_to_br | newline_to_br | strip_newlines | replace: '<br />', ' ' | strip_html | strip | append: "<br /> <br />" }} 
-  <a href="{{ post.url }}">Read more...</a>
 
   {% endfor %}
 
