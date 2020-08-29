@@ -15,8 +15,7 @@ title: Home
     <div>
     <span class="post-date">{{ post.date | date_to_string }}</span>
     </div>
-    <br>
-    {{ post.excerpt | newline_to_br | newline_to_br | strip_newlines | replace: '<br />', ' ' | strip_html | strip | append: "<br /> <br />" }} 
+    {{ post.excerpt }}
     <a href="{{ post.url }}">Expand</a>
   </div>
 
