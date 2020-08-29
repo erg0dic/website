@@ -2,7 +2,9 @@
 layout: post
 title: Example content
 ---
+This is an example blog post that contains some mark down and inline html blah blah blah.
 
+<!--expand-->
 
 <div class="message">
   Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
