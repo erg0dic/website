@@ -1,4 +1,6 @@
 # Dependencies
+plugins: [jekyll-paginate]
+excerpt_separator: <!--expand-->
 markdown:         redcarpet
 highlighter:      pygments
 
